@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="4.1" type="plugin" group="system">
+    <name>Test Plugin</name>
+    <author>Akshit Rattan</author>
+    <creationDate>April 1st, 2022</creationDate>
+    <authorEmail>hiakshit153@gmail.com</authorEmail>
+    <version>1.0</version>
+    <description>A test plugin made for GSoC'22 evaluation</description>
+    <files>
+        <filename plugin="test">test.php</filename>
+        <filename>index.html</filename>
+        <filename>test.js</filename>
+    </files>
+    <config>
+        <fields name="params">
+            <fieldset name="basic">
+                <field
+                    name="plugin_text"
+                    type="text"
+                    label="Enter the text you want to display"
+                />
+            </fieldset>
+        </fields>
+    </config>
+</extension>
