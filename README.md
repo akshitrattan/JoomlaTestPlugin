@@ -9,5 +9,6 @@ The plugin takes a text input and adds it to all the 'headline' tags on your joo
 
 
 
-https://user-images.githubusercontent.com/78909027/161413130-73266b1f-7a22-4b7c-80ba-63ea988f48dd.mov
+
+https://user-images.githubusercontent.com/78909027/163684005-6ed81607-6b85-4039-ad04-099938efd90c.mov
 
