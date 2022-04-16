@@ -5,7 +5,7 @@ Clone the repo to your local machines, compress the folder and upload it to Joom
 
 *WHAT DOES THE PLUGIN DO:-*
 
-The plugin takes a text input and adds it to all the 'headline' tags on your joomla website.
+The plugin takes a text input and adds it to all the 'headline' tags on the administrator side.
 
 
 
